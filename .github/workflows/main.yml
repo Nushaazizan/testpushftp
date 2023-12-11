@@ -17,5 +17,5 @@ jobs:
         with:
           server: ftpupload.net
           username: if0_35561474
-          password: ${{ secrets.VMk03aBnjrcJW4Y}}
+          password: ${{secrets.VMk03aBnjrcJW4Y}}
           server-dir: public_html/testpushftp/
